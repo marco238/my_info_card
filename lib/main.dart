@@ -32,9 +32,9 @@ class MyApp extends StatelessWidget {
                       borderRadius: BorderRadius.circular(100.0),
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black26,
+                          color: Colors.black38,
                           offset: Offset(2, 2),
-                          blurRadius: 0.5,
+                          blurRadius: 10,
                         ),
                       ]),
                   child: CircleAvatar(
